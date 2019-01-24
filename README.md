@@ -1,4 +1,4 @@
-# angular-seed — the seed for AngularJS apps
+# angular-seed — the seed for AngularJS apps 修改版
 
 node scripts/web-server.js
 
